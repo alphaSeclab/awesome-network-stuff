@@ -790,7 +790,7 @@
 - [**7**星][16d] [Shell] [security-onion-solutions/securityonion-sostat](https://github.com/security-onion-solutions/securityonion-sostat) 
 - [**6**星][6y] [Perl] [wwwiretap/bleeding_onions](https://github.com/wwwiretap/bleeding_onions) Script to find Exit and Guard nodes in the Tor Network, that are still suffering from CVE-2014-0160
 - [**5**星][26d] [HTML] [security-onion-solutions/securityonion-web-page](https://github.com/security-onion-solutions/securityonion-web-page) 
-- [**4**星][1y] [Shell] [ecrimelabs/securityonion-ecrimelabs](https://github.com/ecrimelabs/securityonion-ecrimelabs) Implementation of informaiton from MISP through the eCrimeLabs API and into SecurityOnion
+- [**4**星][1y] [Shell] [ecrimelabs/securityonion-ecrimelabs](https://github.com/ecrimelabs/securityonion-ecrimelabs) Implementation of information from MISP through the eCrimeLabs API and into SecurityOnion
 - [**4**星][7m] [Py] [irl/bushel](https://github.com/irl/bushel) A bushel of onions is 57 lbs
 - [**4**星][9m] [Shell] [mutedmouse/helk4so](https://github.com/mutedmouse/helk4so) This repository is for integrating HELK capabilities into Security Onion instances. This will be an evolving extension to both products and as such this not contributed directly to either the HELK or SecurityOnion. Please both use at your own risk and enjoy.
 - [**4**星][3y] [Shell] [security-onion-solutions/securityonion-sguil-db-purge](https://github.com/security-onion-solutions/securityonion-sguil-db-purge) 
